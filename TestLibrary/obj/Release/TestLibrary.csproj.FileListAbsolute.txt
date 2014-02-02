@@ -1,0 +1,25 @@
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\TestLibrary\TestLibrary\bin\Release\TestLibrary.dll
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\TestLibrary\TestLibrary\bin\Release\TestLibrary.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\TestLibrary\TestLibrary\obj\Release\TestLibrary.dll
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\TestLibrary\TestLibrary\obj\Release\TestLibrary.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Release\TestLibrary.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Release\TestLibrary.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Release\TestLibrary.dll
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Release\TestLibrary.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Release\TestLibrary.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Release\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Release\TestLibrary.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Release\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Release\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Release\TestLibrary.dll
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Release\TestLibrary.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Release\TestLibrary.dll
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Release\TestLibrary.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Release 3\TestLibrary\TestLibrary\bin\Release\TestLibrary.dll
+C:\Users\пётр\Dropbox\10 класс\Проект\Release 3\TestLibrary\TestLibrary\bin\Release\TestLibrary.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Release 3\TestLibrary\TestLibrary\obj\Release\TestLibrary.dll
+C:\Users\пётр\Dropbox\10 класс\Проект\Release 3\TestLibrary\TestLibrary\obj\Release\TestLibrary.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\bin\Release\TestLibrary.dll
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\bin\Release\TestLibrary.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\obj\Release\TestLibrary.dll
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\obj\Release\TestLibrary.pdb

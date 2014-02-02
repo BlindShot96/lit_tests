@@ -1,0 +1,4 @@
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\bin\Publish\TestLibrary.dll
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\bin\Publish\TestLibrary.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\obj\Publish\TestLibrary.dll
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\obj\Publish\TestLibrary.pdb

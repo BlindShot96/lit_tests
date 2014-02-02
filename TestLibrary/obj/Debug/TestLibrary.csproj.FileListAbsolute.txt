@@ -1,0 +1,23 @@
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\TestLibrary\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\TestLibrary\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\TestLibrary\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\TestLibrary\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Debug\TestLibrary.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Debug\TestLibrary.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Debug\TestLibrary.exe
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Debug\TestLibrary.exe
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestLibrary-29.05\TestLibrary\obj\Debug\TestLibrary.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\TestLibrary\obj\Debug\TestLibrary.pdb

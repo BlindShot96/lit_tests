@@ -1,0 +1,237 @@
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe.config
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\SimpleTestCreator.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.csprojResolveAssemblyReference.cache
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\App.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.cache
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.g.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.Properties.Resources.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.csproj.GenerateResource.Cache
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\App.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\TestLibrary.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\MainTestWindow.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\MainTestWindow.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\MainWindow.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\MainWindow.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.lref
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\QuestionsListBoxStyle.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControl1.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControl1.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe.config
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.exe
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\SimpleTestCreator.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\TestLibrary.dll
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\bin\Debug\TestLibrary.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.csprojResolveAssemblyReference.cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\MainWindow.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\MainTestWindow.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\MainWindow.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\App.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.lref
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\App.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\MainTestWindow.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.g.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.Properties.Resources.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\SimpleTestCreator.csproj.GenerateResource.Cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\DataElements\DataElementsControl.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImagesListBoxItemStyle.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\ToolBarControl\MainToolBar.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\QuestionsListBox\QuestionsListBoxStyle.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\ToolBarControl\QuestionToolBar.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\SingleChoiceQuestion\SingleChoiceAnswersListBoxItemStyle.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\DataElements\DataElementsControl.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\ToolBarControl\MainToolBar.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\ToolBarControl\MenuControl.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\SingleChoiceQuestion\QuestionSingleChoice.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\ToolBarControl\QuestionToolBar.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\SingleChoiceQuestion\SingleChoiceAnswerWindow.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\ToolBarControl\MenuControl.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\SingleChoiceQuestion\QuestionSingleChoice.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreator\SimpleTestCreator\obj\Debug\UserControls\SingleChoiceQuestion\SingleChoiceAnswerWindow.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe.config
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\SimpleTestCreator.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\TestLibrary.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.csprojResolveAssemblyReference.cache
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Theme\MyTheme.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\DataElementsControl.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImagesListBoxItemStyle.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\App.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\DataElementsControl.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\App.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.cache
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.lref
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.g.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.Properties.Resources.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.csproj.GenerateResource.Cache
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Theme\ColorButtonStyle.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MainWindow2.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MainWindow2.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe.config
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.exe
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\SimpleTestCreator.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\TestLibrary.dll
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\ribboncontrolslibrary.xml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\TestLibrary.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.csprojResolveAssemblyReference.cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MainWindow2.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Theme\ColorButtonStyle.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Theme\MyTheme.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\DataElementsControl.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImagesListBoxItemStyle.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\App.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MainWindow2.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\DataElementsControl.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\App.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.lref
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.g.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.Properties.Resources.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.csproj.GenerateResource.Cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\QuestionTypeChooseDialog.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\MainToolBar.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MainWindow.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\QuestionsListBox\QuestionsListBoxStyle.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\QuestionToolBar.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\SingleChoiceQuestion\SingleChoiceAnswersListBoxItemStyle.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MQView.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\QuestionTypeChooseDialog.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\SQView.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\MainTestWindow.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\MainToolBar.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MainWindow.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\MenuControl.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\SingleChoiceQuestion\QuestionSingleChoice.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\QuestionToolBar.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MQView.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\QSCDataTemplate.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\SQView.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\MainTestWindow.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\MenuControl.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\SingleChoiceQuestion\QuestionSingleChoice.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Theme\MainWindowStyle.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Theme\MainWindowStyle.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\QuestionTypeChooseDialog.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\MainToolBar.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MainWindow.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\QuestionsListBox\QuestionsListBoxStyle.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\QuestionToolBar.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\SingleChoiceQuestion\SingleChoiceAnswersListBoxItemStyle.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MQView.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\QuestionTypeChooseDialog.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\SQView.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\MainTestWindow.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\MainToolBar.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\MenuControl.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\SingleChoiceQuestion\QuestionSingleChoice.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\QuestionToolBar.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\MQView.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\QSCDataTemplate.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\SQView.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\MainTestWindow.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\ToolBarControl\MenuControl.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\OLD\SingleChoiceQuestion\QuestionSingleChoice.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Themes\Generic.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\SingleChoiceAnswerWindow.g.cs
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\SingleChoiceAnswerWindow.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Resources\Images\Images.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImageItemWindow.baml
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImageItemWindow.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Resources\Images\Images.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImageItemWindow.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\SingleChoiceAnswerWindow.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Themes\Generic.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImageItemWindow.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\SingleChoiceAnswerWindow.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\TQView.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\TQView.g.cs
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\ChooseDialog.baml
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\TestCreator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\Views\ChooseDialog.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\Creator\SimpleTestCreatorWPF\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe.config
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\Creator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.exe
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\Creator\SimpleTestCreatorWPF\SimpleTestCreator\obj\Debug\SimpleTestCreator.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe.config
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator.exe
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator.csprojResolveAssemblyReference.cache
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Resources\Images\Images.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Theme\MainWindowStyle.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\ChooseDialog.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\QuestionTypeChooseDialog.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Theme\ColorButtonStyle.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImagesListBoxItemStyle.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\TestSettingsWindow.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\App.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImageItemWindow.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\ChooseDialog.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\QuestionTypeChooseDialog.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\MainWindow2.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\UserControls\DataElements\DataElementsControl.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\SingleChoiceAnswerWindow.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\TestSettingsWindow.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\App.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.cache
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator_MarkupCompile.lref
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\TQView.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\MQView.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\SQView.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\TQView.g.cs
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Themes\Generic.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\UserControls\DataElements\ImageItemWindow.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\MQView.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\SQView.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\MainWindow2.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Theme\MyTheme.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\UserControls\DataElements\DataElementsControl.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\Views\SingleChoiceAnswerWindow.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator.g.resources
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator.Properties.Resources.resources
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator.csproj.GenerateResource.Cache
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe.manifest
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\SimpleTestCreator.application
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\SimpleTestCreator.exe
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\SimpleTestCreator.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\TestLibrary.dll
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\TestLibrary.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator.exe.manifest
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\SimpleTestCreator.application
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\WindowsV\ImageFileWindow.baml
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestCreator\obj\Debug\WindowsV\ImageFileWindow.g.cs

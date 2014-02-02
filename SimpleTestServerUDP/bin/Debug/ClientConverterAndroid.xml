@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Attributes>
+    <Item>
+      <Original Name="{http://www.w3.org/2001/XMLSchema-instance}type" Value="QMultiChoice"/>
+      <New Name="class" Value="TestLibrary.Questions.QMultiChoice"/>
+    </Item>
+    <Item>
+      <Original Name="{http://www.w3.org/2001/XMLSchema-instance}type" Value="QSingleChoice"/>
+      <New Name="class" Value="TestLibrary.Questions.QSingleChoice"/>
+    </Item>
+    <Item>
+      <Original Name="{http://www.w3.org/2001/XMLSchema-instance}type" Value="QTextAnswer"/>
+      <New Name="class" Value="TestLibrary.Questions.QTextAnswer"/>
+    </Item>
+	    <Item>
+      <Original Name="{http://www.w3.org/2001/XMLSchema-instance}type" Value="QLikertAnswer"/>
+      <New Name="class" Value="TestLibrary.Questions.QLikertAnswer"/>
+    </Item>
+    <Item>
+      <Original Name="{http://www.w3.org/2001/XMLSchema-instance}type" Value="Answer"/>
+      <New Name="Null" Value="Null"/>
+    </Item>
+    <Item>
+      <Original Name="IsTrue" Value="true"/>
+      <New Name="Null" Value="Null"/>
+    </Item>
+    <Item>
+      <Original Name="IsTrue" Value="false"/>
+      <New Name="Null" Value="Null"/>
+    </Item>
+    <Item>
+      <Original Name="VerifyByAll" Value="true"/>
+      <New Name="Null" Value="Null"/>
+    </Item>
+    <Item>
+      <Original Name="VerifyByAll" Value="false"/>
+      <New Name="Null" Value="Null"/>
+    </Item>
+    <Item>
+      <Original Name="{http://www.w3.org/1999/xhtml}xsi" Value="http://www.w3.org/2001/XMLSchema-instance"/>
+      <New Name="Null" Value="Null"/>
+    </Item>
+    <Item>
+      <Original Name="{http://www.w3.org/1999/xhtml}xsd" Value="http://www.w3.org/2001/XMLSchema"/>
+      <New Name="Null" Value="Null"/>
+    </Item>
+  </Attributes>
+</Root> 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Exception xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Exception>
+    <Message>не удалось проверить тест</Message>
+    <StackTrace>   в SimpleTestServerUDP.Internet.Client.Verify(Test&amp; OriginalTest, Byte[] buf) в c:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\Internet\Client.cs:строка 154
+   в SimpleTestServerUDP.Internet.Server.OnRequestSetResult(Client client, TcpClient tcp_client) в c:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\Internet\Server.cs:строка 294</StackTrace>
+  </Exception>
+</Exception>

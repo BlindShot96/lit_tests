@@ -1,0 +1,84 @@
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartForm.resources
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.Properties.Resources.resources
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.exe
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.exe
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientDetailForm.resources
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.QuestionInfoForm.resources
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\bin\Debug\TestLibrary.dll
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\bin\Debug\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\bin\Debug\TestLibrary.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\bin\Debug\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csprojResolveAssemblyReference.cache
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientDetailForm.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.QuestionInfoForm.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartForm.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.Properties.Resources.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csproj.GenerateResource.Cache
+Z:\Диплом\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.exe
+Z:\Диплом\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTCP\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.exe
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTCP\SimpleTestServerUDP\SimpleTestServerUDP\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.exe
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientDetailForm.resources
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.QuestionInfoForm.resources
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartForm.resources
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.Properties.Resources.resources
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartNewForm.resources
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.exe
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\TestLibrary.pdb
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\TestLibrary.dll
+C:\Users\Programmer\Desktop\Dropbox\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientsQueryAddonsManagerForm.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.exe
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\TestLibrary.dll
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\TestLibrary.pdb
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csprojResolveAssemblyReference.cache
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientDetailForm.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientsQueryAddonsManagerForm.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.QuestionInfoForm.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartForm.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.Properties.Resources.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartNewForm.resources
+C:\Users\Pit\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csproj.GenerateResource.Cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.exe
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csprojResolveAssemblyReference.cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientDetailForm.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientsQueryAddonsManagerForm.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.QuestionInfoForm.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartForm.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.Properties.Resources.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartNewForm.resources
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csproj.GenerateResource.Cache
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.exe
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.pdb
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\TestLibrary.dll
+C:\Users\пётр\Dropbox\10 класс\Проект\Кодинг\Debug\SimpleTestServerTcp_2.0_25.05\SimpleTestServerUDP\bin\Debug\TestLibrary.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.exe
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.exe
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\bin\Debug\SimpleTestServerUDP.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\bin\Debug\TestLibrary.pdb
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csprojResolveAssemblyReference.cache
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientDetailForm.resources
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.ClientsQueryAddonsManagerForm.resources
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.QuestionInfoForm.resources
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartForm.resources
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.Properties.Resources.resources
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.StartNewForm.resources
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\obj\x86\Debug\SimpleTestServerUDP.csproj.GenerateResource.Cache
+C:\Users\пётр\Dropbox\11 класс\Проект\Version 0.3 alpha\AllSharpProject\SimpleTestServerUDP\bin\Debug\TestLibrary.dll

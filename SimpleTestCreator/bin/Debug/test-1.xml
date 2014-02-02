@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Settings Name="test1" MaxMark="0" MinMark="0" MinuteTime="0" />
+  <Questions xsi:type="QSingleChoice" Name="A1" Type="SingleChoice" MaxBall="0" MinBall="0" Number="1">
+    <Answers />
+    <MediaData>
+      <Text>Lol1</Text>
+      <Files />
+    </MediaData>
+  </Questions>
+  <Questions xsi:type="QMultiChoice" Name="A2" Type="MultiChoice" MaxBall="0" MinBall="0" Number="2" VerifyByAll="false">
+    <Answers />
+    <MediaData>
+      <Text>Lol2</Text>
+      <Files />
+    </MediaData>
+  </Questions>
+  <Questions xsi:type="QSingleChoice" Name="A3" Type="SingleChoice" MaxBall="0" MinBall="0" Number="3">
+    <Answers />
+    <MediaData>
+      <Text>Lol3</Text>
+      <Files />
+    </MediaData>
+  </Questions>
+  <Questions xsi:type="QMultiChoice" Name="A4" Type="MultiChoice" MaxBall="0" MinBall="0" Number="4" VerifyByAll="false">
+    <Answers />
+    <MediaData>
+      <Text>Lol4</Text>
+      <Files />
+    </MediaData>
+  </Questions>
+  <MediaData>
+    <Text>#Null</Text>
+    <Files />
+  </MediaData>
+</Test>
